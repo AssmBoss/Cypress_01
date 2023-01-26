@@ -1,0 +1,27 @@
+[
+    { "authors":"J. D. Salinger",
+    "title":"The Catcher in the Rye",
+    "description":"American novel",
+    "fileBook":"The Catcher in the Rye.txt",
+    "fileCover":"The_Catcher_in_the_Rye.jpg"},
+    
+    {"authors":"J. R. R. Tolkien",
+     "title":"The Lord of the Rings",
+     "description":"epic high-fantasy novel",
+     "fileBook":"The Lord of the Rings.txt",
+     "fileCover":"The_Lord_of_the_Rings.gif"},
+     
+    {"authors":"Аркадий и Борис Стругацкие",
+    "title":"Трудно быть богом",
+    "description":"социально-фантастическая повесть",
+    "fileBook":"Трудно быть богом.txt",
+    "fileCover":"Трудно_быть_богом.jpg"},
+
+    {
+    "authors":"дорогой Леонид Ильич",
+    "title":"Малая земля",
+    "description":"мемуары",
+    "fileBook":"Малая земля.txt",
+    "fileCover":"Малая_земля.jpg"
+    }
+  ]

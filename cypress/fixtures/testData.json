@@ -1,0 +1,6 @@
+{
+    "mail":"bropet@mail.ru", 
+    "pass": "123",
+    "testBooksQuantity": 4,
+    "pathToTestbooks" : ".\\testbooks\\"
+}
